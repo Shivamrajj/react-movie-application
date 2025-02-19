@@ -1,0 +1,35 @@
+/* Default light mode styles */
+body {
+    background-color: #ffffff;
+    color: #333;
+    font-family: Arial, sans-serif;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Dark mode styles */
+  .dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  /* Theme toggle button */
+  .theme-toggle {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    background: #333;
+    color: white;
+    transition: 0.3s;
+  }
+  
+  .theme-toggle:hover {
+    background: #555;
+  }
+  
