@@ -18,7 +18,7 @@ function NavBar() {
 
     return <nav className="navbar">
         <div className="navbar-brand">
-            <Link to="/">Ansh Movies</Link>
+            <Link to="/">Ansh Moviess</Link>
         </div>
         <div className="navbar-links">
             <Link to="/" className="nav-link">Home</Link>
